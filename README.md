@@ -1,12 +1,18 @@
 # Cerveja
 
-This is a project for Coyotiv School of Software Engineering
+This is a project for Coyotiv School of Software Engineering.
+It is based on current apps Untappd and Beer with me. 
 
 
 ## Description
 
 Check the interfaces planned to be build here: https://balsamiq.cloud/srr9y1e/pq808qz/r9402
 
+How can you better visualize and play around?
+1. Find the button "Full Screen Presentation" and click on it.
+2. A dialog named "Full Screen Presentation Settings" should open, then select the checkbox zoom.
+3. You should see the first wireframe get larger on the background, click on close and play around.
+To exit at any moment the full screen, press esc on your keyboard.
 
 # LICENSE
 ```
