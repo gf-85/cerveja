@@ -6,7 +6,7 @@ It is based on current apps Untappd and Beer with me.
 
 ## Description
 
-Check the [interfaces](https://balsamiq.cloud/srr9y1e/pq808qz/r9402) planned to be build. 
+Check the [interfaces](https://balsamiq.cloud/syhk4l0/pkg14vw) planned to be build. 
 
 How can you better visualize and play around?
 1. Find the button "Full Screen Presentation" and click on it.
