@@ -4,8 +4,15 @@
   "description": "Project for Coyotiv School of Software Engineering",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "software-engineering",
+    "nodejs",
+    "object-oriented-programming"
+  ],
   "author": "Gabriela Franz",
   "license": "MIT",
   "devDependencies": {
@@ -16,8 +23,5 @@
     "eslint-plugin-jsx-a11y": "^6.9.0",
     "eslint-plugin-react": "^7.35.0",
     "eslint-plugin-react-hooks": "^4.6.2"
-  },
-  "dependencies": {
-    "core-js": "^3.37.1"
   }
 }
