@@ -96,44 +96,44 @@ These are also my main notes, to get back and review all important concepts.
 ### Introduction to Software Engineering
 
 1. Create this repository on Git, clone it and write this README with LICENSE based on [markdown documentation](https://www.markdownguide.org/).
-2. Design wireframes on Balsamiq, focus on UI. Wireframes are used to visualize and focus on possible parent child relationships. It also helps to apply the [lean methodology](https://theleanstartup.com/) based on a possible [minimum viable product or MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp).
-3. Follow best practices about Git:
-4. Pull requests must be done only when there is a significant change on the project.
-5. Commit must always communicate context about a change. Always describe what and why, never how. Commit history must be readable, and follow the [7 rules listed here](https://cbea.ms/git-commit/).
-6. Work in a [linear workflow](https://arm.ag/how-to-manage-git-workflow-and-stay-sane-e32405e9dbf0), always rebase before merging changes.
-7. Follow best practices about coding standards:
+1. Design wireframes on Balsamiq, focus on UI. Wireframes are used to visualize and focus on possible parent child relationships. It also helps to apply the [lean methodology](https://theleanstartup.com/) based on a possible [minimum viable product or MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp).
+1. Follow best practices about Git:
+   1. Pull requests must be done only when there is a significant change on the project.
+   1. Commit must always communicate context about a change. Always describe what and why, never how. Commit history must be readable, and follow the [7 rules listed here](https://cbea.ms/git-commit/).
+   1. Work in a [linear workflow](https://arm.ag/how-to-manage-git-workflow-and-stay-sane-e32405e9dbf0), always rebase before merging changes.
+1. Follow best practices about coding standards:
    1. Plan your code, code your plan and only implement what you really need it, do not overcomplicate: "Simplicity is the ultimate sophistication".
-   2. Apply the concept that the simplest explanation is most likely the right one, based on [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor).
-   3. Apply the DRY principle which means don't repeat yourself, based on [KISS, Keep it simple stupid](https://en.wikipedia.org/wiki/KISS_principle#In_software_development) principles.
-   4. When naming do not use abbreviations! And apply the following casing conventions:
-   5. `kebab-case` for files file-name.js.
-   6. `PascalCase` for classes ClassName.
-   7. `camelCase`for variables, methods, functions functionName.
-   8. `YELLING_CASE` for constants CONSTANT_VALUE.
-   9. Follow these [13 points from JavaScript Style Guide](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/).
-   10. Use TWO spaces for indentation, instead of tabs.
-   11. Every statement must have a semicolon at the end.
-   12. Don't use ES6 modules.
-   13. Horizontal alignment is discouraged.
-   14. Don't use var, declare variables with `const` or `let` keywords.
-   15. Arrow functions are preferred, specially for nested functions.
-   16. Use template strings `` `instead of concatenation.
-   17. Don't use line continuations for long strings.
-   18. `for... of` loop is the preferred type between all three types of 'for loops'.
-   19. Don't use eval().
-   20. Constants should be named in ALL_UPPERCASE, an exception to the rule is function-scoped when is written in camelCase.
-   21. One variable per declaration.
-   22. Use `'single'` quotes, not `"double"` quotes.
-   23. Add descriptions on the code when needed using `/** description */` [based on JSDoc](standardjs@com).
+   1. Apply the concept that the simplest explanation is most likely the right one, based on [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor).
+   1. Apply the DRY principle which means don't repeat yourself, based on [KISS, Keep it simple stupid](https://en.wikipedia.org/wiki/KISS_principle#In_software_development) principles.
+   1. When naming do not use abbreviations! And apply the following casing conventions:
+   1. `kebab-case` for files file-name.js.
+   1. `PascalCase` for classes ClassName.
+   1. `camelCase`for variables, methods, functions functionName.
+   1. `YELLING_CASE` for constants CONSTANT_VALUE.
+   1. Follow these [13 points from JavaScript Style Guide](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/).
+   1. Use TWO spaces for indentation, instead of tabs.
+   1. Every statement must have a semicolon at the end.
+   1. Don't use ES6 modules.
+   1. Horizontal alignment is discouraged.
+   1. Don't use var, declare variables with `const` or `let` keywords.
+   1. Arrow functions are preferred, specially for nested functions.
+   1. Use template strings `` `instead of concatenation.
+   1. Don't use line continuations for long strings.
+   1. `for... of` loop is the preferred type between all three types of 'for loops'.
+   1. Don't use eval().
+   1. Constants should be named in ALL_UPPERCASE, an exception to the rule is function-scoped when is written in camelCase.
+   1. One variable per declaration.
+   1. Use `'single'` quotes, not `"double"` quotes.
+   1. Add descriptions on the code when needed using `/** description */` [based on JSDoc](standardjs@com).
 
 ### Node.js and Plugins
 
 1. Apply [Prettier](https://prettier.io/docs/en/configuration.html) and [ESLint](https://eslint.org/docs/latest/use/configure/) for code style.
-2. Add node.modules.
-3. ONGOING Create the explanation on how to install configure and run the application.
+1. Add node.modules.
+1. Create the explanation on how to install configure and run the application.
 
 ### OOP
 
 1. NEXT Add Classes with getters and setters.
-2. NEXT Check SOLID principles, and follow at least the single responsibility and the open close principles.
-3. NEXT UML Diagrams.
+1. NEXT Check SOLID principles, and follow at least the single responsibility and the open close principles.
+1. NEXT UML Diagrams.
