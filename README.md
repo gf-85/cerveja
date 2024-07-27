@@ -11,8 +11,8 @@ Check the [interfaces](https://balsamiq.cloud/srr9y1e/pq808qz/r9402) planned to 
 How can you better visualize and play around?
 
 1. Find the button "Full Screen Presentation" and click on it.
-2. A dialog named "Full Screen Presentation Settings" should open, then select the checkbox zoom.
-3. You should see the first wireframe get larger on the background, click on close and play around.
+1. A dialog named "Full Screen Presentation Settings" should open, then select the checkbox zoom.
+1. You should see the first wireframe get larger on the background, click on close and play around.
    To exit at any moment the full screen, press esc on your keyboard.
 
 ### UX
@@ -25,12 +25,12 @@ Check the hypotheses planned to be fullfilled as MVP. Based on the [Lean UX Canv
   As a learning project, users share their knowledge and can check trends within their community. If this app is in the future for profit, breweries can also be users and collect feedback.
 
 1. Number of users as retention rate.
-2. Number of photos as metrics to customer success.
+1. Number of photos as metrics to customer success.
 
 - **Users**, define a persona, what type of users and customers the ~~business~~ project should focus first?:
 
 1.  Beers lovers usually have friends who understand about the topic, but these beer lovers do not want to bother to ask for recommendations.
-2.  If this app is in the future for profit, breweries can collect feedback from beer lovers.
+1.  If this app is in the future for profit, breweries can collect feedback from beer lovers.
 
 - **User Outcomes & Benefits**, why users will seek out the offer of this ~~business~~ project product or service, what benefit would they gain from using it?
   Cerveja is a social media platform to collect feedback of beers, so beer lovers can get recommendations and also share their knowledge. Beer lovers can interact within their community.
@@ -38,14 +38,14 @@ Check the hypotheses planned to be fullfilled as MVP. Based on the [Lean UX Canv
   Transform these evaluations in a social platform where users can interact checking someone else's evaluations.
 
 1.  Access a platform to upload pictures and evaluate beers.
-2.  Users can ~~like~~ toast a ~~picture~~ beer. (Untappd)
-3.  Users can list their top beers. (Untappd)
-4.  A user can tag other users to invite them over to taste a beer in some specific location. (Beer with me)
+1.  Users can ~~like~~ toast a ~~picture~~ beer. (Untappd)
+1.  Users can list their top beers. (Untappd)
+1.  A user can tag other users to invite them over to taste a beer in some specific location. (Beer with me)
 
 **Hypotheses** combine the above on a phrase: "we believe that **business outcome** will be achieved if **user** attains **benefit** with **features**."
 
 1. I believe that **users will share their evaluation** if **beer lovers** attains **feedback of beers** with **the implementation of this project, where beer lovers can access the platform, upload pictures and evaluate beers**.
-2. I believe that **users will check trends within their community** if **beer lovers** attains **interactions within their community** with **the implementation of a list of top beers, toast functionality and tag functionality**.
+1. I believe that **users will check trends within their community** if **beer lovers** attains **interactions within their community** with **the implementation of a list of top beers, toast functionality and tag functionality**.
 
 The learning process of the topics listed on [these steps](#steps-of-the-project-cerveja) will be based on the development of these two hypotheses. Further features presented on the UI will be implemented later to reinforce not only development, but also operations within a project.
 
