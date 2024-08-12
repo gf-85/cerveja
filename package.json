@@ -3,11 +3,6 @@
   "version": "0.0.1",
   "description": "Project for Coyotiv School of Software Engineering",
   "main": "index.js",
-  "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "software-engineering",
     "nodejs",
@@ -15,13 +10,20 @@
   ],
   "author": "Gabriela Franz",
   "license": "MIT",
-  "devDependencies": {
-    "eslint": "^8.57.0",
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-jsx-a11y": "^6.9.0",
-    "eslint-plugin-react": "^7.35.0",
-    "eslint-plugin-react-hooks": "^4.6.2"
-  }
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "eslint:check": "npx eslint .",
+    "eslint:fix": "npx eslint --fix .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"devDependencies": {
+		"eslint": "^8.19.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-import": "^2.26.0",
+		"eslint-plugin-prettier": "^4.2.1",
+		"nodemon": "^2.0.19",
+		"prettier": "^2.7.1"
+	}
 }
