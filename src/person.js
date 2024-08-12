@@ -1,6 +1,9 @@
 class Person {
   constructor(name, age) {
-    ;(this.name = name), (this.age = age), (this.bio = ''), (this.photos = [])
+    this.name = name
+    this.age = age
+    this.bio = ''
+    this.photos = []
   }
 
   greetEachOther(person) {
@@ -31,9 +34,10 @@ class Person {
         .join('\n')}
       `
   }
+
   // THIS LINE WAS USED TO SHOW HOW SETTER WORKS on index.js that is why newValue is declared but never read.
   set profile(newValue) {
-    throw new error('You cannot change the profile, profile is only a getter! Not possible to override it.')
+    throw new Error('You cannot change the profile, profile is only a getter! Not possible to override it.')
   }
 }
 
