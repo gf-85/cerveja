@@ -22,7 +22,3 @@ console.log(gabriela.profile)
 
 // THIS LINE WAS USED TO SHOW HOW SETTER WORKS
 // console.log(gabriela.profile = 'new profile') // this will throw an error because profile is a getter not a setter
-
-function foo() {
-  return 3 ? 6 : 8 ? 6 : 1
-}
