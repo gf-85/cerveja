@@ -129,8 +129,9 @@ These are also my main notes, to get back and review all important concepts.
 ### Node.js and Plugins
 
 1. Apply [Prettier](https://prettier.io/docs/en/configuration.html) and [ESLint](https://eslint.org/docs/latest/use/configure/) for code style.
-1. Add node.modules.
-1. Create the explanation on how to install configure and run the application.
+1. COMING Add[Husky](https://www.npmjs.com/package/husky).
+1. COMING Add node.modules.
+1. COMING Create the explanation on how to install, configure and run the application.
 
 ### OOP
 
