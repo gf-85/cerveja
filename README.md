@@ -118,19 +118,19 @@ These are also my main notes, to get back and review all important concepts.
    1. `camelCase`for variables, methods, functions functionName.
    1. `YELLING_CASE` for constants CONSTANT_VALUE.
    1. Follow these [13 points from JavaScript Style Guide](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/).
-     1. Use TWO spaces for indentation, instead of tabs.
-     1. Every statement must have a semicolon at the end. On this project this practice will not be followed.
-     1. Don't use ES6 modules.
-     1. Horizontal alignment is discouraged.
-     1. Don't use var, declare variables with `const` or `let` keywords.
-     1. Arrow functions are preferred, specially for nested functions.
-     1. Use template strings `` `instead of concatenation.
-     1. Don't use line continuations for long strings.
-     1. `for... of` loop is the preferred type between all three types of 'for loops'.
-     1. Don't use eval().
-     1. Constants should be named in ALL_UPPERCASE, an exception to the rule is function-scoped when is written in camelCase.
-     1. One variable per declaration.
-     1. Use `'single'` quotes, not `"double"` quotes.
+     * Use TWO spaces for indentation, instead of tabs.
+     * Every statement must have a semicolon at the end. On this project this practice will not be followed.
+     * Don't use ES6 modules.
+     * Horizontal alignment is discouraged.
+     * Don't use var, declare variables with `const` or `let` keywords.
+     * Arrow functions are preferred, specially for nested functions.
+     * Use template strings `` `instead of concatenation.
+     * Don't use line continuations for long strings.
+     * `for... of` loop is the preferred type between all three types of 'for loops'.
+     * Don't use eval().
+     * Constants should be named in ALL_UPPERCASE, an exception to the rule is function-scoped when is written in camelCase.
+     * One variable per declaration.
+     * Use `'single'` quotes, not `"double"` quotes.
    1. Add descriptions on the code when needed using `/** description */` [based on JSDoc](standardjs@com).
 
 ### Node.js and Plugins
