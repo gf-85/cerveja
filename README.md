@@ -117,7 +117,8 @@ These are also my main notes, to get back and review all important concepts.
    1. `PascalCase` for classes ClassName.
    1. `camelCase`for variables, methods, functions functionName.
    1. `YELLING_CASE` for constants CONSTANT_VALUE.
-   1. Follow these [13 points from JavaScript Style Guide](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/).
+   1. Add descriptions on the code when needed using `/** description */` [based on JSDoc](standardjs@com).
+   1. Follow these [13 points from JavaScript Style Guide](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/):
      * Use TWO spaces for indentation, instead of tabs.
      * Every statement must have a semicolon at the end. On this project this practice will not be followed.
      * Don't use ES6 modules.
@@ -131,7 +132,6 @@ These are also my main notes, to get back and review all important concepts.
      * Constants should be named in ALL_UPPERCASE, an exception to the rule is function-scoped when is written in camelCase.
      * One variable per declaration.
      * Use `'single'` quotes, not `"double"` quotes.
-   1. Add descriptions on the code when needed using `/** description */` [based on JSDoc](standardjs@com).
 
 ### Node.js and Plugins
 
