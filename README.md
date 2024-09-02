@@ -63,6 +63,12 @@ The learning process of the topics listed on [these steps](#steps-of-the-project
 
 ## Getting Started
 
+Install cerveja locally via npm:
+
+```bash
+npm install cote
+```
+
 ## LICENSE
 
 ```
@@ -112,27 +118,26 @@ These are also my main notes, to get back and review all important concepts.
    1. `camelCase`for variables, methods, functions functionName.
    1. `YELLING_CASE` for constants CONSTANT_VALUE.
    1. Follow these [13 points from JavaScript Style Guide](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/).
-   1. Use TWO spaces for indentation, instead of tabs.
-   1. Every statement must have a semicolon at the end.
-   1. Don't use ES6 modules.
-   1. Horizontal alignment is discouraged.
-   1. Don't use var, declare variables with `const` or `let` keywords.
-   1. Arrow functions are preferred, specially for nested functions.
-   1. Use template strings `` `instead of concatenation.
-   1. Don't use line continuations for long strings.
-   1. `for... of` loop is the preferred type between all three types of 'for loops'.
-   1. Don't use eval().
-   1. Constants should be named in ALL_UPPERCASE, an exception to the rule is function-scoped when is written in camelCase.
-   1. One variable per declaration.
-   1. Use `'single'` quotes, not `"double"` quotes.
+     1. Use TWO spaces for indentation, instead of tabs.
+     1. Every statement must have a semicolon at the end. On this project this practice will not be followed.
+     1. Don't use ES6 modules.
+     1. Horizontal alignment is discouraged.
+     1. Don't use var, declare variables with `const` or `let` keywords.
+     1. Arrow functions are preferred, specially for nested functions.
+     1. Use template strings `` `instead of concatenation.
+     1. Don't use line continuations for long strings.
+     1. `for... of` loop is the preferred type between all three types of 'for loops'.
+     1. Don't use eval().
+     1. Constants should be named in ALL_UPPERCASE, an exception to the rule is function-scoped when is written in camelCase.
+     1. One variable per declaration.
+     1. Use `'single'` quotes, not `"double"` quotes.
    1. Add descriptions on the code when needed using `/** description */` [based on JSDoc](standardjs@com).
 
 ### Node.js and Plugins
 
 1. Apply [Prettier](https://prettier.io/docs/en/configuration.html) and [ESLint](https://eslint.org/docs/latest/use/configure/) for code style.
-1. COMING Add[Husky](https://www.npmjs.com/package/husky).
-1. COMING Add node.modules.
-1. COMING Create the explanation on how to install, configure and run the application.
+1. Add[Husky](https://www.npmjs.com/package/husky).
+1. Create the explanation on how to install, configure and run the application.
 
 ### OOP
 
