@@ -7,9 +7,9 @@ It is based on current apps Untappd and Beer with me.
 
 ### UI
 
-Check the [interfaces](https://balsamiq.cloud/syhk4l0/pkg14vw/r9402) planned to be build.
+Check the [interfaces](https://balsamiq.cloud/syhk4l0/pkg14vw/r9402?f=N4IgUiBcCMA0IDkpxAYWfAMhkAhHAsjgFpQAM8A0lANoC6AvkA%3D%3D) planned to be build.
 
-How can you better visualize and play around?
+How can you better visualize and play around in case balsamiq do not open on full screen mode?
 
 1. Find the button "Full Screen Presentation" and click on it.
 1. A dialog named "Full Screen Presentation Settings" should open, then select the checkbox zoom.
@@ -119,28 +119,28 @@ These are also my main notes, to get back and review all important concepts.
    1. `YELLING_CASE` for constants CONSTANT_VALUE.
    1. Add descriptions on the code when needed using `/** description */` [based on JSDoc](standardjs@com).
    1. Follow these [13 points from JavaScript Style Guide](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/):
-     * Use TWO spaces for indentation, instead of tabs.
-     * Every statement must have a semicolon at the end. On this project this practice will not be followed.
-     * Don't use ES6 modules.
-     * Horizontal alignment is discouraged.
-     * Don't use var, declare variables with `const` or `let` keywords.
-     * Arrow functions are preferred, specially for nested functions.
-     * Use template strings `` `instead of concatenation.
-     * Don't use line continuations for long strings.
-     * `for... of` loop is the preferred type between all three types of 'for loops'.
-     * Don't use eval().
-     * Constants should be named in ALL_UPPERCASE, an exception to the rule is function-scoped when is written in camelCase.
-     * One variable per declaration.
-     * Use `'single'` quotes, not `"double"` quotes.
+Use TWO spaces for indentation, instead of tabs.
+Every statement must have a semicolon at the end. On this project this practice will not be followed.
+Don't use ES6 modules.
+Horizontal alignment is discouraged.
+Don't use var, declare variables with `const` or `let` keywords.
+Arrow functions are preferred, specially for nested functions.
+Use template strings `` `instead of concatenation.
+Don't use line continuations for long strings.
+`for... of` loop is the preferred type between all three types of 'for loops'.
+Don't use eval().
+Constants should be named in ALL_UPPERCASE, an exception to the rule is function-scoped when is written in camelCase.
+One variable per declaration.
+Use `'single'` quotes, not `"double"` quotes.
 
 ### Node.js and Plugins
 
 1. Apply [Prettier](https://prettier.io/docs/en/configuration.html) and [ESLint](https://eslint.org/docs/latest/use/configure/) for code style.
-1. Add[Husky](https://www.npmjs.com/package/husky).
+1. Add [Husky](https://www.npmjs.com/package/husky).
 1. Create the explanation on how to install, configure and run the application.
 
 ### OOP
 
-1. NEXT Add Classes with getters and setters.
+1. NEXT Add Classes.
 1. NEXT Check SOLID principles, and follow at least the single responsibility and the open close principles.
 1. NEXT UML Diagrams.
