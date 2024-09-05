@@ -7,7 +7,7 @@ It is based on current apps Untappd and Beer with me.
 
 ### UI
 
-Check the [interfaces](https://balsamiq.cloud/syhk4l0/pkg14vw/rC1BD) planned to be build.
+Check the [interfaces](https://balsamiq.cloud/syhk4l0/pkg14vw/r9402) planned to be build.
 
 How can you better visualize and play around?
 
