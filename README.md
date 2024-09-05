@@ -66,7 +66,7 @@ The learning process of the topics listed on [these steps](#steps-of-the-project
 Install cerveja locally via npm:
 
 ```bash
-npm install cote
+npm install
 ```
 
 ## LICENSE
